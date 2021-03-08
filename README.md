@@ -2,4 +2,4 @@
 - 👀 I’m interested in teaching, programming, and writing.
 - 🌱 I’m currently learning Music Theory.
 - 💞️ I’m looking to collaborate on fixing education.
-- 📫 https://www.catpea.com
+- 📫 https://catpea.com
