@@ -9,7 +9,6 @@ Take a look at my [repositories](https://github.com/catpea?tab=repositories&q=&t
 ## Website Resources
 - [website]: The New Cat Pea Website
 - [news]: A tiny twitter for catpea!
-- [song]: Catpea Theme Song
 - [homepage]: Primary landing page for catpea.
 
 ## Content For Website
@@ -18,9 +17,10 @@ Take a look at my [repositories](https://github.com/catpea?tab=repositories&q=&t
 - [research]: Markdown source for software development research.
 - [fitness]: Markdown source for fitness advice.
 - [essays]: Notes about philosophical ideas and concepts.
-- [portfolio]: My Portfolio
-- [resume]: My Resume
-
+- [portfolio]: My Portfolio (private)
+- [resume]: My Resume (private)
+- [song]: Catpea Theme Song
+- 
 ## Cat Pea Support Programs
 - [bowel]: Bowel is a small and lightweight scaffolding and build system for rapid assembly of HTML components.
 - [baloney]: Compact and lightweight Template Literals (Template Strings) processor.
