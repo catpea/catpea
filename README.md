@@ -27,13 +27,15 @@ Take a look at my [repositories](https://github.com/catpea?tab=repositories&q=&t
 - [cosmopolis]: HTML Game about city management.
 
 # Legacy Applications
-- [server]: Static site generation friendly koa based webserver.
 - [cataclysm]: Static Website Builder
 - [catawampus]: Classless Responsive CSS Generator for Semantic HTML
 - [catkin]: Human Perceivable Color Manager
 - [trop]: Text to Poem Converter
 - [peacss] : A simple and lightweight bootstrap theme with nice colors
 - [elderflower]: Simple, beautiful, static audio site. Transform your text and mp3 into a typographically beautiful static website and audio book.
+
+## Non-npm repositories (alpha)
+- [server]: Static site generation friendly koa based webserver.
 
 ## TODO
 - elderflower was unpublished from @catpea and needs to be republished if possible, npm is currently throwing ENEEDAUTH errors 
