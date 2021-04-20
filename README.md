@@ -29,7 +29,7 @@ Take a look at my [repositories](https://github.com/catpea?tab=repositories&q=&t
 ## Cat Pea Wiki Wiki Web
 - [peacekeeper]: A Beautiful WikiWiki
 - [peacoat]: Clever WikiWiki File System
-- 
+
 # Legacy Applications
 - [cataclysm]: Static Website Builder
 - [catawampus]: Classless Responsive CSS Generator for Semantic HTML
@@ -67,3 +67,4 @@ Take a look at my [repositories](https://github.com/catpea?tab=repositories&q=&t
 [elderflower]: https://github.com/catpea/elderflower
 [peacss]: https://github.com/catpea/peacss
 [peacekeeper]: https://github.com/catpea/peacekeeper
+[peacoat]: https://github.com/catpea/peacoat
