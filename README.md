@@ -25,8 +25,11 @@ Take a look at my [repositories](https://github.com/catpea?tab=repositories&q=&t
 - [bowel]: Bowel is a small and lightweight scaffolding and build system for rapid assembly of HTML components.
 - [baloney]: Compact and lightweight Template Literals (Template Strings) processor.
 - [cosmopolis]: HTML Game about city management.
-- [peacoat]: A clever WikiWiki
 
+## Cat Pea Wiki Wiki Web
+- [peacekeeper]: A Beautiful WikiWiki
+- [peacoat]: Clever WikiWiki File System
+- 
 # Legacy Applications
 - [cataclysm]: Static Website Builder
 - [catawampus]: Classless Responsive CSS Generator for Semantic HTML
@@ -63,4 +66,4 @@ Take a look at my [repositories](https://github.com/catpea?tab=repositories&q=&t
 [cosmopolis]: https://github.com/catpea/cosmopolis
 [elderflower]: https://github.com/catpea/elderflower
 [peacss]: https://github.com/catpea/peacss
-[peacoat]: https://github.com/catpea/peacoat
+[peacekeeper]: https://github.com/catpea/peacekeeper
