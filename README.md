@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fixing education.
 - 📫 https://catpea.com
 
-Take a look at my [repositories](https://github.com/catpea?tab=repositories&q=&type=source&language=&sort=)
+Take a look at my [repositories](https://github.com/catpea?tab=repositories&q=&type=source&language=&sort=) and [npm](https://www.npmjs.com/~catpea)
 
 ## Website Resources
 - [website]: The New Cat Pea Website
