@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @catpea
 - 👀 I’m interested in teaching, programming, and writing.
 - 🌱 I’m currently learning Music Theory.
-- 💞️ I’m looking to collaborate on building real schools that actually educate and enable graduates; to replace the memorization charade than currently puts student in fraudelent and predatory debt.
+- 💞️ I’m looking to collaborate on building real schools that actually educate and enable graduates. A new generation of real schools to replace the memorization charade than currently puts students in fraudulent and predatory debt.
 - 📫 https://catpea.com
 
 Take a look at my [repositories](https://github.com/catpea?tab=repositories&q=&type=source&language=&sort=) and [npm](https://www.npmjs.com/~catpea)
