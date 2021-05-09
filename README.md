@@ -6,6 +6,14 @@
 
 Take a look at my [source repositories](https://github.com/catpea?tab=repositories&q=&type=source&language=&sort=) and [npm packages](https://www.npmjs.com/~catpea)
 
+## Publishing Corpus
+- [db] is the main content repository
+  - dataset
+    - [furkies-purrkies] narrated content
+    - [westland-warrior] thumbnail content
+  - [bin] utilities
+  - [templates] new record templates
+
 ## Website Resources
 - [website]: The New Cat Pea Website
 - [news]: A tiny twitter for catpea!
@@ -68,3 +76,9 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 [peacss]: https://github.com/catpea/peacss
 [peacekeeper]: https://github.com/catpea/peacekeeper
 [peacoat]: https://github.com/catpea/peacoat
+
+[db]: https://github.com/catpea/db
+[bin]: https://github.com/catpea/bin
+[templates]: https://github.com/catpea/templates
+[furkies-purrkies]: https://github.com/catpea/furkies-purrkies
+[westland-warrior]: https://github.com/catpea/westland-warrior
