@@ -30,7 +30,6 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 - [essays]: Notes about philosophical ideas and concepts.
 - [portfolio]: My Portfolio (private)
 - [resume]: My Resume (private)
-- [song]: Catpea Theme Song
 
 ## Cat Pea Support Programs
 - [bowel]: Bowel is a small and lightweight scaffolding and build system for rapid assembly of HTML components.
