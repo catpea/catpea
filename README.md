@@ -6,6 +6,9 @@
 
 Take a look at my [source repositories](https://github.com/catpea?tab=repositories&q=&type=source&language=&sort=) and [npm packages](https://www.npmjs.com/~catpea)
 
+## Notable Programs
+- [bashscript]: BashScript a very lightweight language for Bash scripting.
+
 ## Publishing Corpus
 - [db] is the main content repository
   - dataset
@@ -82,3 +85,5 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 [templates]: https://github.com/catpea/templates
 [furkies-purrkies]: https://github.com/catpea/furkies-purrkies
 [westland-warrior]: https://github.com/catpea/westland-warrior
+
+[bashscript]: https://github.com/catpea/bashscript
