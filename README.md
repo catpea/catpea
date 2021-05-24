@@ -7,7 +7,7 @@
 Take a look at my [source repositories](https://github.com/catpea?tab=repositories&q=&type=source&language=&sort=) and [npm packages](https://www.npmjs.com/~catpea)
 
 ## Notable Programs
-- [bashscript]: BashScript a very lightweight language for Bash scripting.
+- [bashscript]: A small shell and a very lightweight JavaScript library meant to convert Operating System commands to functions.
   - [munchhausen]: Automatically wrap operating system commands with duplex streams.
 
 ## Publishing Corpus
