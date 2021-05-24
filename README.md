@@ -8,6 +8,7 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 
 ## Notable Programs
 - [bashscript]: BashScript a very lightweight language for Bash scripting.
+  - [munchhausen]: Automatically wrap operating system commands with duplex streams.
 
 ## Publishing Corpus
 - [db] is the main content repository
@@ -86,3 +87,4 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 [westland-warrior]: https://github.com/catpea/westland-warrior
 
 [bashscript]: https://github.com/catpea/bashscript
+[munchhausen]: https://github.com/catpea/munchhausen
