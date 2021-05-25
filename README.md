@@ -6,6 +6,9 @@
 
 Take a look at my [source repositories](https://github.com/catpea?tab=repositories&q=&type=source&language=&sort=) and [npm packages](https://www.npmjs.com/~catpea)
 
+## Programming Tips And Tricks
+1. Intermediate Data Structures: If you are working with nested or recursive "things", don't execute things instantly. Instead create a huge tree of things that are yet to be executed. This way, you will be able to see what is about to happen. If you just go for the gold without creating an intermediate data structure, you will never see the tree that you are supposed to be working on, and that is just not fair for when you need to debug something.
+
 ## Notable Programs
 - [bashscript]: A small shell and a very lightweight JavaScript library meant to convert Operating System commands to functions.
   - [munchhausen]: Automatically wrap operating system commands with duplex streams.
