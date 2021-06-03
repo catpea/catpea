@@ -12,8 +12,9 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 3. Don't use walk functions, simply use ```this.children.map(node=>node.value()``` in your ```value()``` method, a simple .map will give you full recursion inside out.
 
 ## Notable Programs
+- [tush]: Tush Shell
 - [bashscript]: A small shell and a very lightweight JavaScript library meant to convert Operating System commands to functions.
-  - [munchhausen]: Automatically wrap operating system commands with duplex streams.
+- [munchhausen]: Automatically wrap operating system commands with duplex streams.
 
 ## Publishing Corpus
 - [db] is the main content repository
@@ -93,3 +94,4 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 
 [bashscript]: https://github.com/catpea/bashscript
 [munchhausen]: https://github.com/catpea/munchhausen
+[tush]: https://github.com/catpea/tush
