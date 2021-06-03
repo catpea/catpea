@@ -24,6 +24,11 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
   - [bin] utilities
   - [templates] new record templates
 
+## Corpus Processing
+- [bowel]: naive data transformation framework
+- [eternia]: synchronous data processing framework
+- [peacekeeper]: asynchronous data processing framework
+
 ## Website Resources
 - [website]: The New Cat Pea Website
 - [news]: A tiny twitter for catpea!
@@ -39,12 +44,10 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 - [resume]: My Resume (private)
 
 ## Cat Pea Support Programs
-- [bowel]: Bowel is a small and lightweight scaffolding and build system for rapid assembly of HTML components.
 - [baloney]: Compact and lightweight Template Literals (Template Strings) processor.
 - [cosmopolis]: HTML Game about city management.
 
 ## Cat Pea Wiki Wiki Web
-- [peacekeeper]: A Beautiful WikiWiki
 - [peacoat]: Clever WikiWiki File System
 
 # Legacy Applications
