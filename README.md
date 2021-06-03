@@ -95,6 +95,8 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 [furkies-purrkies]: https://github.com/catpea/furkies-purrkies
 [westland-warrior]: https://github.com/catpea/westland-warrior
 
+[eternia]: https://github.com/catpea/eternia
+
 [bashscript]: https://github.com/catpea/bashscript
 [munchhausen]: https://github.com/catpea/munchhausen
 [tush]: https://github.com/catpea/tush
