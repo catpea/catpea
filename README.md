@@ -25,9 +25,9 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
   - [templates] new record templates
 
 ## Corpus Processing
-- [bowel]: naive data transformation framework
-- [eternia]: synchronous data processing framework
-- [peacekeeper]: asynchronous data processing framework
+- [bowel]: Eager Processing Framework (1st Reference Implementation)
+- [eternia]: Synchronous Processing Framework (2nd Reference Implementation)
+- [peacekeeper]: Asynchronous Processing Framework (3rd Reference Implementation)
 
 ## Website Resources
 - [website]: The New Cat Pea Website
