@@ -22,8 +22,8 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 ## Publishing Corpus
 - [db]: is the main content repository
   - dataset
-   - [furkies-purrkies]: narrated content
-   - [westland-warrior]: thumbnail content
+  - [furkies-purrkies]: narrated content
+  - [westland-warrior]: thumbnail content
   - [bin]: utilities
   - [templates]: new record templates
   - [themes]: website themes
