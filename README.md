@@ -16,13 +16,17 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 - [bashscript]: A small shell and a very lightweight JavaScript library meant to convert Operating System commands to functions.
 - [munchhausen]: Automatically wrap operating system commands with duplex streams.
 
+## Command Line Programs
+- [endir]: Command line utility to virtually place all HTML files in a sub directory by prefixing all the absolute paths specified in a, link, img, and script with a user specified prefix.
+
 ## Publishing Corpus
-- [db] is the main content repository
+- [db]: is the main content repository
   - dataset
-    - [furkies-purrkies] narrated content
-    - [westland-warrior] thumbnail content
-  - [bin] utilities
-  - [templates] new record templates
+    - [furkies-purrkies]: narrated content
+    - [westland-warrior]: thumbnail content
+  - [bin]: utilities
+  - [templates]: new record templates
+  - [themes]: website themes
 
 ## Corpus Processing
 - [bowel]: Eager Processing Framework (1st Reference Implementation)
@@ -100,3 +104,6 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 [bashscript]: https://github.com/catpea/bashscript
 [munchhausen]: https://github.com/catpea/munchhausen
 [tush]: https://github.com/catpea/tush
+
+[endir]: https://github.com/catpea/endir
+[themes]: https://github.com/catpea/themes
