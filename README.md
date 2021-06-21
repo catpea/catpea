@@ -25,7 +25,7 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 - [website]: Cat Pea Website
 - [warrior]: Westland Warrior Master Repository
 - [news]: A tiny twitter for catpea!
-- 
+
 ## Corpus Processing
 1. [bowel]: Eager Processing Framework (1st Reference Implementation)
 2. [eternia]: Synchronous Processing Framework (2nd Reference Implementation)
