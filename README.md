@@ -67,7 +67,7 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 
 ## TODO
 - elderflower was unpublished from @catpea and needs to be republished if possible, npm is currently throwing ENEEDAUTH errors 
-
+- review https://github.com/tomerfiliba/plumbum and https://www.pixelbeat.org/docs/coreutils-gotchas.html (more: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf)
 
 [website]: https://github.com/catpea/website
 [news]: https://github.com/catpea/news
