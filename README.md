@@ -31,6 +31,18 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 2. [eternia]: Synchronous Processing Framework (2nd Reference Implementation)
 3. [peacekeeper]: Asynchronous Processing Framework (3rd Reference Implementation)
 
+## Future Content For Website
+- [research]: Markdown source for software development research.
+- [fitness]: Markdown source for fitness advice.
+- [essays]: Notes about philosophical ideas and concepts.
+- [portfolio]: My Portfolio (private)
+- [resume]: My Resume (private)
+
+# Software
+
+## Command Line Programs
+- [endir]: Command line utility to virtually place all HTML files in a sub directory by prefixing all the absolute paths specified in a, link, img, and script with a user specified prefix.
+
 # Research
 
 ## Command Execution
@@ -39,16 +51,6 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 
 ## Shell Development
 1. [tush]: Tush Shell (1st Reference Implementation)
-
-## Command Line Programs
-- [endir]: Command line utility to virtually place all HTML files in a sub directory by prefixing all the absolute paths specified in a, link, img, and script with a user specified prefix.
-
-## Future Content For Website
-- [research]: Markdown source for software development research.
-- [fitness]: Markdown source for fitness advice.
-- [essays]: Notes about philosophical ideas and concepts.
-- [portfolio]: My Portfolio (private)
-- [resume]: My Resume (private)
 
 ## Cat Pea Support Programs
 - [baloney]: Compact and lightweight Template Literals (Template Strings) processor.
