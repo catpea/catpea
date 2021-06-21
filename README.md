@@ -19,7 +19,7 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 - [db]: is the main content repository
 - [templates]: new record templates
 - [themes]: website themes
-- [bin]: utilities
+- bin: utilities
 
 ## Publishing
 - [website]: Cat Pea Website
