@@ -11,6 +11,28 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 2. If you are going to deal with trees, borrow as much as you can from the Document Object Model (web/HTML) don't try to reinvent the wheel. The Document Object Model is perfect for working with trees.
 3. Don't use walk functions, simply use ```this.children.map(node=>node.value()``` in your ```value()``` method, a simple .map will give you full recursion inside out.
 
+## Publishing Corpus
+- [furkies-purrkies]: narrated content
+- [westland-warrior]: thumbnail content
+
+## Content Management
+- [db]: is the main content repository
+- [templates]: new record templates
+- [themes]: website themes
+- [bin]: utilities
+
+## Publishing
+- [website]: Cat Pea Website
+- [warrior]: Westland Warrior Master Repository
+- [news]: A tiny twitter for catpea!
+- 
+## Corpus Processing
+1. [bowel]: Eager Processing Framework (1st Reference Implementation)
+2. [eternia]: Synchronous Processing Framework (2nd Reference Implementation)
+3. [peacekeeper]: Asynchronous Processing Framework (3rd Reference Implementation)
+
+# Research
+
 ## Command Execution
 1. [munchhausen]: Automatically wrap operating system commands with duplex streams. (1st Reference Implementation)
 2. [bashscript]: A small shell and a very lightweight JavaScript library meant to convert Operating System commands to functions. (2nd Reference Implementation)
@@ -21,28 +43,7 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 ## Command Line Programs
 - [endir]: Command line utility to virtually place all HTML files in a sub directory by prefixing all the absolute paths specified in a, link, img, and script with a user specified prefix.
 
-## Publishing Corpus
-- [db]: is the main content repository
-  - dataset
-    - [furkies-purrkies]: narrated content
-    - [westland-warrior]: thumbnail content
-  - [templates]: new record templates
-  - [themes]: website themes
-  - [bin]: utilities
-
-## Corpus Processing
-1. [bowel]: Eager Processing Framework (1st Reference Implementation)
-2. [eternia]: Synchronous Processing Framework (2nd Reference Implementation)
-3. [peacekeeper]: Asynchronous Processing Framework (3rd Reference Implementation)
-
-## Website Resources
-- [website]: The New Cat Pea Website
-- [news]: A tiny twitter for catpea!
-- [homepage]: Primary landing page for catpea.
-
-## Content For Website
-- [warrior]: Master Repository for "Warrior: A book about growing up."
-- [poetry]: Markdown source and audio files for poetry about life.
+## Future Content For Website
 - [research]: Markdown source for software development research.
 - [fitness]: Markdown source for fitness advice.
 - [essays]: Notes about philosophical ideas and concepts.
@@ -52,11 +53,7 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 ## Cat Pea Support Programs
 - [baloney]: Compact and lightweight Template Literals (Template Strings) processor.
 - [cosmopolis]: HTML Game about city management.
-
-## Cat Pea Wiki Wiki Web
 - [peacoat]: Clever WikiWiki File System
-
-# Legacy Applications
 - [cataclysm]: Static Website Builder
 - [catawampus]: Classless Responsive CSS Generator for Semantic HTML
 - [catkin]: Human Perceivable Color Manager
@@ -64,12 +61,15 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 - [peacss] : A simple and lightweight bootstrap theme with nice colors
 - [elderflower]: Simple, beautiful, static audio site. Transform your text and mp3 into a typographically beautiful static website and audio book.
 
-## Non-npm repositories (alpha)
-- [server]: Static site generation friendly koa based webserver.
+## Past Content From Websites (Archival)
+- [poetry]: Markdown source and audio files for poetry about life. (Scheduled to be archived 2022)
+- [server]: Static site generation friendly koa based webserver. (Scheduled to be archived 2022)
 
 ## TODO
 - elderflower was unpublished from @catpea and needs to be republished if possible, npm is currently throwing ENEEDAUTH errors 
 - review https://github.com/tomerfiliba/plumbum and https://www.pixelbeat.org/docs/coreutils-gotchas.html (more: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf)
+
+
 
 [website]: https://github.com/catpea/website
 [news]: https://github.com/catpea/news
