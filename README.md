@@ -11,10 +11,12 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 2. If you are going to deal with trees, borrow as much as you can from the Document Object Model (web/HTML) don't try to reinvent the wheel. The Document Object Model is perfect for working with trees.
 3. Don't use walk functions, simply use ```this.children.map(node=>node.value()``` in your ```value()``` method, a simple .map will give you full recursion inside out.
 
-## Notable Programs
-- [tush]: Tush Shell
-- [bashscript]: A small shell and a very lightweight JavaScript library meant to convert Operating System commands to functions.
-- [munchhausen]: Automatically wrap operating system commands with duplex streams.
+## Command Execution
+1. [munchhausen]: Automatically wrap operating system commands with duplex streams. (1st Reference Implementation)
+2. [bashscript]: A small shell and a very lightweight JavaScript library meant to convert Operating System commands to functions. (2nd Reference Implementation)
+
+## Shell Development
+1. [tush]: Tush Shell (1st Reference Implementation)
 
 ## Command Line Programs
 - [endir]: Command line utility to virtually place all HTML files in a sub directory by prefixing all the absolute paths specified in a, link, img, and script with a user specified prefix.
@@ -29,9 +31,9 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
   - [bin]: utilities
 
 ## Corpus Processing
-- [bowel]: Eager Processing Framework (1st Reference Implementation)
-- [eternia]: Synchronous Processing Framework (2nd Reference Implementation)
-- [peacekeeper]: Asynchronous Processing Framework (3rd Reference Implementation)
+1. [bowel]: Eager Processing Framework (1st Reference Implementation)
+2. [eternia]: Synchronous Processing Framework (2nd Reference Implementation)
+3. [peacekeeper]: Asynchronous Processing Framework (3rd Reference Implementation)
 
 ## Website Resources
 - [website]: The New Cat Pea Website
