@@ -51,6 +51,7 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 
 ## Shell Development
 1. [tush]: Tush Shell (1st Reference Implementation)
+2. [oosh]: Object Oriented Shell (2nd Reference Implementation)
 
 ## Cat Pea Support Programs
 - [baloney]: Compact and lightweight Template Literals (Template Strings) processor.
@@ -108,6 +109,7 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 [bashscript]: https://github.com/catpea/bashscript
 [munchhausen]: https://github.com/catpea/munchhausen
 [tush]: https://github.com/catpea/tush
+[oosh]: https://github.com/catpea/oosh
 
 [endir]: https://github.com/catpea/endir
 [themes]: https://github.com/catpea/themes
