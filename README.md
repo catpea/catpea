@@ -10,67 +10,70 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 1. Intermediate Data Structures: If you are working with nested or recursive "things", don't execute things instantly. Instead create a huge tree of things that are yet to be executed. This way, you will be able to see what is about to happen. If you just go for the gold without creating an intermediate data structure, you will never see the tree that you are supposed to be working on, and that is just not fair for when you need to debug something. TLDR; the last thing you should be thinking about in a recursive tree, is collapsing nodes, make the tree beautiful and readable first, export it to Cytoscape or Graphviz, give it a name, take it out for a movie, and stare at it for days prior to function execution.
 2. If you are going to deal with trees, borrow as much as you can from the Document Object Model (web/HTML) don't try to reinvent the wheel. The Document Object Model is perfect for working with trees.
 3. Don't use walk functions, simply use ```this.children.map(node=>node.value()``` in your ```value()``` method, a simple .map will give you full recursion inside out.
+4. If your program can run on the command line even if you have to invent something newe like ffmpeg graph notation, don't start by creating a GUI application. Make a command line program first and then consider makeing a GUI for it.
 
-## Publishing Corpus
-- [furkies-purrkies]: narrated content
-- [westland-warrior]: thumbnail content
+## Digital Audio Player Research (Hardware)
 
-## Content Management
+- [peapod]: Deployment repository for the Cat Pea music player. 
+
+### Audio Player Toolkit
+- [isir]: Remote control raspberry pi via a bluetooth keyboard or a remote shutter device. 
+- [rsend]: Upload local files to remote host via scp and ssh. 
+- [sha256sum]: Compute and check SHA256 message digest. 
+- [older]: Simple function to check if a file is older, useful for cache related operations. 
+
+### Hardware Research
+- [awesome-raspberry-pi]: Awesome Raspberry Pi
+
+## Audio Book Research (Education)
+
+### Publishing Corpus
+- [furkies-purrkies]: Furkies Purkies Narrated Content
+
+## Video Book Research (Education)
+
+### Publishing Corpus
+- [westland-warrior]: Westland Warrior Video Content
+
+## Text User Interface (TUI) Research (Computation)
+
+### Command Execution
+1. [munchhausen]: Automatically wrap operating system commands with duplex streams. (1st Reference Implementation)
+2. [bashscript]: A small shell and a very lightweight JavaScript library meant to convert Operating System commands to functions. (2nd Reference Implementation)
+
+### Shell Development
+1. [tush]: Tush Shell (1st Reference Implementation)
+2. [oosh]: Object Oriented Shell (2nd Reference Implementation)
+
+### Command Line Program Structure Research
+- [endir]: Command line utility to virtually place all HTML files in a sub directory by prefixing all the absolute paths specified in a, link, img, and script with a user specified prefix.
+
+## Content Management Research
 - [db]: is the main content repository
 - [templates]: new record templates
 - [themes]: website themes
 - bin: utilities
 
-## Publishing
+### Sample Content
 - [website]: Cat Pea Website
 - [warrior]: Westland Warrior Master Repository
 - [news]: A tiny twitter for catpea!
 
-## Corpus Processing
+### Corpus Processing Implementations
 1. [bowel]: Eager Processing Framework (1st Reference Implementation)
 2. [eternia]: Synchronous Processing Framework (2nd Reference Implementation)
 3. [peacekeeper]: Asynchronous Processing Framework (3rd Reference Implementation)
 
-## Future Content For Website
+## Structured Content and Static Text Database Research
 - [research]: Markdown source for software development research.
 - [fitness]: Markdown source for fitness advice.
 - [essays]: Notes about philosophical ideas and concepts.
 - [portfolio]: My Portfolio (private)
 - [resume]: My Resume (private)
 
-# Software
 
-## Command Line Programs
-- [endir]: Command line utility to virtually place all HTML files in a sub directory by prefixing all the absolute paths specified in a, link, img, and script with a user specified prefix.
 
-# Research
 
-## Command Execution
-1. [munchhausen]: Automatically wrap operating system commands with duplex streams. (1st Reference Implementation)
-2. [bashscript]: A small shell and a very lightweight JavaScript library meant to convert Operating System commands to functions. (2nd Reference Implementation)
-
-## Shell Development
-1. [tush]: Tush Shell (1st Reference Implementation)
-2. [oosh]: Object Oriented Shell (2nd Reference Implementation)
-
-## Cat Pea Support Programs
-- [baloney]: Compact and lightweight Template Literals (Template Strings) processor.
-- [cosmopolis]: HTML Game about city management.
-- [peacoat]: Clever WikiWiki File System
-- [cataclysm]: Static Website Builder
-- [catawampus]: Classless Responsive CSS Generator for Semantic HTML
-- [catkin]: Human Perceivable Color Manager
-- [trop]: Text to Poem Converter
-- [peacss] : A simple and lightweight bootstrap theme with nice colors
-- [elderflower]: Simple, beautiful, static audio site. Transform your text and mp3 into a typographically beautiful static website and audio book.
-
-## Past Content From Websites (Archival)
-- [poetry]: Markdown source and audio files for poetry about life. (Scheduled to be archived 2022)
-- [server]: Static site generation friendly koa based webserver. (Scheduled to be archived 2022)
-
-## TODO
-- elderflower was unpublished from @catpea and needs to be republished if possible, npm is currently throwing ENEEDAUTH errors 
-- review https://github.com/tomerfiliba/plumbum and https://www.pixelbeat.org/docs/coreutils-gotchas.html (more: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf)
 
 
 
@@ -113,3 +116,11 @@ Take a look at my [source repositories](https://github.com/catpea?tab=repositori
 
 [endir]: https://github.com/catpea/endir
 [themes]: https://github.com/catpea/themes
+
+
+[peapod]: https://github.com/catpea/peapod
+[isir]: https://github.com/catpea/isir
+[rsend]: https://github.com/catpea/rsend
+[sha256sum]: https://github.com/catpea/sha256sum
+[older]: https://github.com/catpea/older
+[awesome-raspberry-pi]: https://github.com/catpea/awesome-raspberry-pi
