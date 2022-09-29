@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @catpea
-- 👀 I’m interested in teaching, programming, and writing.
-- 🌱 I’m currently learning Music Theory.
-- 💞️ I’m looking to collaborate on building real schools that actually educate and enable graduates. A new generation of real schools to replace the memorization charade than currently puts students in fraudulent and predatory debt.
-- 📫 https://catpea.com
+## News
 
-Take a look at my [source repositories](https://github.com/catpea?tab=repositories&q=&type=source&language=&sort=) and [npm packages](https://www.npmjs.com/~catpea)
+website repository has been removed, a new more efficent mono-repo is being uploaded right now.
+
 
 ## Programming Tips And Tricks
 1. Intermediate Data Structures: If you are working with nested or recursive "things", don't execute things instantly. Instead create a huge tree of things that are yet to be executed. This way, you will be able to see what is about to happen. If you just go for the gold without creating an intermediate data structure, you will never see the tree that you are supposed to be working on, and that is just not fair for when you need to debug something. TLDR; the last thing you should be thinking about in a recursive tree, is collapsing nodes, make the tree beautiful and readable first, export it to Cytoscape or Graphviz, give it a name, take it out for a movie, and stare at it for days prior to function execution.
